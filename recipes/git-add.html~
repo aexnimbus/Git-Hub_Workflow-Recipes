@@ -8,10 +8,10 @@
         <code>git add -A </code>
     </ul>
     <ul>
-        <code>git add . </code>
+        <code>git add .</code>
     </ul>
     <ul>
-        <code>git agit pdd -u </code>
+        <code>git agit pdd -u</code>
     </ul>    
         <p>Stage Changes for next Commit</p>
 
